@@ -1,0 +1,1 @@
+# flask-quick-folder-structure
